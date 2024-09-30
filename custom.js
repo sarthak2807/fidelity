@@ -1,6 +1,6 @@
 function bmi()
 {
-    //get feet and inches value
+    //heloo get feet and inches value
     let feet=document.getElementById("feet").value;
     //console.log(feet);
     let inch=document.getElementById("inch").value;
